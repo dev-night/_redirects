@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://twitter.com/dev_night"
+  status = 301
+  force = true
