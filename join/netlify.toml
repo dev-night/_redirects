@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://meet.google.com/dyf-gygh-kyb?authuser=0"
+  to = "https://dev-night.io"
   status = 301
   force = true
